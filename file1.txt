@@ -1,3 +1,7 @@
-Name: Victor
-Age: 21
-Favorite color: Yellow
+let name = Victor
+let age = 21
+let favorite color = yellow
+
+// Esta es la parte de modificación del archivo
+// probando testing...
+console.log("prueba de código");
